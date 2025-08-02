@@ -1,0 +1,108 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+
+/* Reset and Box sizing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1em;
+    color: #2c2c2c;
+    background: #f9f9f9;
+    line-height: 1.6;
+    padding: 2rem;
+}
+
+header {
+    margin: 0 auto;
+    width: 650px;
+    text-align: center;
+}
+
+h1 {
+    margin: 1rem 0;
+    font-size: 2em;
+    color: #005f73;
+}
+
+form {
+    width: 650px;
+    margin: 0 auto;
+    padding: 1.5rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+    background-color: #e0f7fa;
+    display: grid;
+    gap: 1rem;
+}
+
+fieldset {
+    display: grid;
+    grid-gap: 0.75rem;
+    margin: 1rem 0;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #ffffff;
+}
+
+legend {
+    padding: 0.5rem;
+    color: #0077b6;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+label, input, button, select, textarea {
+    font-family: 'Open Sans', sans serif;
+}
+
+label {
+    text-align: right;
+    padding-right: 1rem;
+    font-weight: 600;
+}
+
+input, select, textarea {
+    padding: 0.5rem;
+    font-size: 1.1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+}
+
+input [type="check-box"] {
+    width: 22px;
+    height: 22px;
+    vertical-align: bottom;
+}
+
+button {
+    margin: 1rem 0;
+    background-color: #0077b6;
+    color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #023e8a;
+}
+
+footer {
+    margin: 2rem auto 0;
+    width: 650px;
+    text-align: center;
+    font-size: 0.8em;
+    color: #777;
+    border-top: 1px solid #ccc;
+    padding-top: 1rem;
+}
