@@ -152,6 +152,24 @@ nav {
   margin-left: 16px;
 }
 
+.hero-heading {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translater(-50%, -50%);
+  color: white;
+  font-size: 2.5rem;
+  background-color: rgba(0,0,0,0.5);
+  padding: 1rem;
+}
+
+.grid-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 2rem;
+}
+
 .history-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
