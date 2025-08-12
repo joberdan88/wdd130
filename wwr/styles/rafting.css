@@ -160,20 +160,32 @@ nav {
 }
 
 .hero article {
-  position: absolute;
-  bottom: -110px;
-  left: 50%;
-  transform: translateX(-50%);
-  background-color: rgba(255, 255, 255, 0.6);
-  padding: 16px;
-  max-width: 400px;
-  color: #333;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2rem;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 2rem;
+  margin-top: 1rem;
+  border-radius: 8px;
 }
 
 .hero article img {
-  float: right;
-  width: 125px;
-  margin-left: 16px;
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.hero article h2 {
+  width: 100%;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.hero article p {
+  flex: 1;
+  font-size: 1.1rem;
+  line-height: 1.6;
 }
 
 .hero-heading {
