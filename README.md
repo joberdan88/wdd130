@@ -41,7 +41,7 @@ Welcome to the **Rafting Adventure** project, developed during the **Frontend We
 
 ---
 
-## 🖼 Visual Assets
+##  Visual Assets
 
 - Optimized images stored in the `images/` folder.
 - Company logo included in the header.
@@ -63,7 +63,7 @@ Welcome to the **Rafting Adventure** project, developed during the **Frontend We
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Jonas Oberdan**  
 Frontend Developer | WDD 130  
