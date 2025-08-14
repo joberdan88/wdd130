@@ -68,7 +68,6 @@ Welcome to the **Rafting Adventure** project, developed during the **Frontend We
 **Jonas Oberdan**  
 Frontend Developer | WDD 130  
 Contact: jonasoberdan@gmail.com
-
 ---
 
 ##  Next Steps
