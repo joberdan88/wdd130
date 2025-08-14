@@ -1,6 +1,6 @@
 # Rafting Adventure Website
 
-Welcome to the **Rafting Adventure** project, developed during the **Frontend Web Development (WDD 130)** course. This fictional rafting company website was created to apply key concepts of HTML, CSS, responsive design, and accessibility.
+Welcome to the **Rafting Adventure** project, developed during the **Frontend Web Development (WDD 130)**. This fictional rafting company website was created to apply key concepts of HTML, CSS, responsive design, and accessibility.
 
 ---
 
